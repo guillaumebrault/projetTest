@@ -12,6 +12,7 @@ namespace TestGitHub
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Je m'appelle Guillaume");
+            Console.WriteLine("J'ai 23 ans");
 
         }
     }
